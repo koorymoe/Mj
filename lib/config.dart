@@ -1,5 +1,4 @@
 class AppConfig {
-  // ضع هنا رابط Google Apps Script بعد النشر كـ Web App
-  // مثال: https://script.google.com/macros/s/AKfycb.../exec
-  static const String gasUrl = 'YOUR_GAS_WEB_APP_URL_HERE';
+  static const String gasUrl =
+      'https://script.google.com/macros/s/AKfycbx7BxIPbrtSWdrXdvrM9oLa3QwYsapbu7UrMHzuGt8JuvOP1_j2W9xcrl7ltCE_vpIYnw/exec';
 }
